@@ -1,0 +1,3 @@
+language: javascript
+rvm:
+  -v11.14.0
