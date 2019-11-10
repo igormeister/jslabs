@@ -1,5 +1,5 @@
 var express = require('express');
-vars app = express();
+var app = express();
 
 app.use(express.json())
 
